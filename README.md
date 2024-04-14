@@ -13,7 +13,7 @@ This dataframe ingests and combines two csv files containing a total of 9,643 in
 ### Retailer Total Sales
 <img src="retailer_total_sales.png" width="700" height="300">
 
-### Women's Athletic Footwear Products
+### Women's Athletic Footwear Products Sold
 <img src="womens_athletic_footwear_products.png" width="800" height="300">
 
 ### Day with Most Women's Athletic Footwear Sales
