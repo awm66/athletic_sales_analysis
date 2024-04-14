@@ -6,27 +6,21 @@ This dataframe ingests and combines two csv files containing a total of 9,643 in
 
 ### Total Products Sold
 <img src="total_products_sold.png" width="600" height="300">
----
 
 ### Total Sales
 <img src="total_sales.png" width="600" height="300">
----
 
 ### Retailer Total Sales
 <img src="retailer_total_sales.png" width="700" height="300">
----
 
 ### Women's Athletic Footwear Products
 <img src="womens_athletic_footwear_products.png" width="800" height="300">
----
 
 ### Day with Most Sales
 <img src="day_most_sales.png" width="400" height="300">
----
 
 ### Week with Most Sales
 <img src="week_most_sales.png" width="400" height="300">
----
 
 # Approach:
 1. The first step, *explore*, was to review the raw csv data, ingest the two files, and investigate the data within the two dataframes to identify unique regions, states, cities, retailers, and products. 
