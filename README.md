@@ -4,23 +4,24 @@ Week 5 Challenge
 # Functionality:
 This dataframe ingests and combines two csv files containing a total of 9,643 invoices. It futher identifies the region/state/city with the most products sold, the region/state/city with the most sales, the retailer with the most sales, the retailer that sold the most women's athletic footwear, the day with the most women's athletic footwear sales, and the week with the most women's athletic footwear sales.
 
-## Total Products Sold
+### Total Products Sold
 ![Screenshot](total_products_sold.png)
-
-## Total Sales
+---
+### Total Sales
 ![Screenshot](total_sales.png)
-
-## Retailer Total Sales
+---
+### Retailer Total Sales
 ![Screenshot](retailer_total_sales.png)
-
-## Women's Athletic Footwear Products
+---
+### Women's Athletic Footwear Products
 ![Screenshot](womens_athletic_footwear_products.png)
-
-## Day with Most Sales
+---
+### Day with Most Sales
 ![Screenshot](day_most_sales.png)
-
-## Week with Most Sales
+---
+### Week with Most Sales
 ![Screenshot](week_most_sales.png)
+---
 
 # Approach:
 1. The first step, *explore*, was to review the raw csv data, ingest the two files, and investigate the data within the two dataframes to identify unique regions, states, cities, retailers, and products. 
@@ -29,7 +30,7 @@ This dataframe ingests and combines two csv files containing a total of 9,643 in
 4. The last step in the approach was to *summarize and analyze*.
 
 # Summary of Findings:
-The data showed that the region/state/city with the most products sold was the Northeast/New York/New York combination with 111,954 products. The region/state/city with the most sales was also the Northest/New York/New York combination with $39,801,235. The retailer with the most sales was West Gear in San Francisco with $32,794,405. The retailer with the most women's athletic footwear products sold was West Gear in San Francisco with 12,107 products. The day with the most women's athletic footwear sales was July 16, 2021, with $1,521,825. The week with the most women's athletic footwear sales was December 19, 2021 with $3,098,970.
+The data showed that the region/state/city with the most products sold was the Northeast/New York/New York combination with 111,954 products. The region/state/city with the most sales was also the Northeast/New York/New York combination with $39,801,235. The retailer with the most sales was West Gear in San Francisco with $32,794,405. The retailer with the most women's athletic footwear products sold was West Gear in San Francisco with 12,107 products. The day with the most women's athletic footwear sales was July 16, 2021, with $1,521,825. The week with the most women's athletic footwear sales was December 19, 2021 with $3,098,970.
 
 # Plagerism Statement:
 No specific code was copied but the sources below were referenced for examples and syntax. 
