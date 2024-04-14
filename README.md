@@ -6,6 +6,7 @@ This dataframe ingests and combines two csv files containing a total of 9,643 in
 
 ### Total Products Sold
 ![Screenshot](total_products_sold.png)
+<img src="total_products_sold.png" width="200" height="100">
 ---
 ### Total Sales
 ![Screenshot](total_sales.png)
