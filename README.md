@@ -4,7 +4,7 @@ Week 5 Challenge
 # Functionality:
 This dataframe ingests and combines two csv files containing a total of 9,643 invoices. It futher identifies the region/state/city with the most products sold, the region/state/city with the most sales, the retailer with the most sales, the retailer that sold the most women's athletic footwear, the day with the most women's athletic footwear sales, and the week with the most women's athletic footwear sales.
 
----
+
 ### Total Products Sold
 ![Screenshot](total_products_sold.png)
 ---
