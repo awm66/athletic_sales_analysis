@@ -4,7 +4,12 @@ Week 5 Challenge
 # Functionality:
 This dataframe ingests and combines two csv files containing a total of 9,643 invoices. It futher identifies the region/state/city with the most products sold, the region/state/city with the most sales, the retailer with the most sales, the retailer that sold the most women's athletic footwear, the day with the most women's athletic footwear sales, and the week with the most women's athletic footwear sales.
 
-![Screenshot](top_5_client_summary.png)
+![Screenshot](total_products_sold.png)
+![Screenshot](total_sales.png)
+![Screenshot](retailer_total_sales.png)
+![Screenshot](womens_athletic_footwear_products.png)
+![Screenshot](daily_most_sales.png)
+![Screenshot](weekly_most_sales.png)
 
 # Approach:
 1. The first step, *explore*, was to review the raw csv data, ingest the two files, and investigate the data within the two dataframes to identify unique regions, states, cities, retailers, and products. 
