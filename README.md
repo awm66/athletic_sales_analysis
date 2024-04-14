@@ -5,23 +5,27 @@ Week 5 Challenge
 This dataframe ingests and combines two csv files containing a total of 9,643 invoices. It futher identifies the region/state/city with the most products sold, the region/state/city with the most sales, the retailer with the most sales, the retailer that sold the most women's athletic footwear, the day with the most women's athletic footwear sales, and the week with the most women's athletic footwear sales.
 
 ### Total Products Sold
-![Screenshot](total_products_sold.png)
 <img src="total_products_sold.png" width="600" height="300">
 ---
 ### Total Sales
 ![Screenshot](total_sales.png)
+<img src="total_sales.png" width="600" height="300">
 ---
 ### Retailer Total Sales
 ![Screenshot](retailer_total_sales.png)
+<img src="retailer_total_sales.png" width="600" height="300">
 ---
 ### Women's Athletic Footwear Products
 ![Screenshot](womens_athletic_footwear_products.png)
+<img src="womens_athletic_footwear_products.png" width="600" height="300">
 ---
 ### Day with Most Sales
 ![Screenshot](day_most_sales.png)
+<img src="day_most_sales.png" width="600" height="300">
 ---
 ### Week with Most Sales
 ![Screenshot](week_most_sales.png)
+<img src="week_most_sale.png" width="600" height="300">
 ---
 
 # Approach:
