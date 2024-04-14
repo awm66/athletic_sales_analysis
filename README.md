@@ -8,8 +8,8 @@ This dataframe ingests and combines two csv files containing a total of 9,643 in
 ![Screenshot](total_sales.png)
 ![Screenshot](retailer_total_sales.png)
 ![Screenshot](womens_athletic_footwear_products.png)
-![Screenshot](daily_most_sales.png)
-![Screenshot](weekly_most_sales.png)
+![Screenshot](day_most_sales.png)
+![Screenshot](week_most_sales.png)
 
 # Approach:
 1. The first step, *explore*, was to review the raw csv data, ingest the two files, and investigate the data within the two dataframes to identify unique regions, states, cities, retailers, and products. 
