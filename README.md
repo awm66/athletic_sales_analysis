@@ -8,24 +8,19 @@ This dataframe ingests and combines two csv files containing a total of 9,643 in
 <img src="total_products_sold.png" width="600" height="300">
 ---
 ### Total Sales
-![Screenshot](total_sales.png)
 <img src="total_sales.png" width="600" height="300">
 ---
 ### Retailer Total Sales
-![Screenshot](retailer_total_sales.png)
-<img src="retailer_total_sales.png" width="600" height="300">
+<img src="retailer_total_sales.png" width="700" height="300">
 ---
 ### Women's Athletic Footwear Products
-![Screenshot](womens_athletic_footwear_products.png)
-<img src="womens_athletic_footwear_products.png" width="600" height="300">
+<img src="womens_athletic_footwear_products.png" width="800" height="300">
 ---
 ### Day with Most Sales
-![Screenshot](day_most_sales.png)
-<img src="day_most_sales.png" width="600" height="300">
+<img src="day_most_sales.png" width="400" height="300">
 ---
 ### Week with Most Sales
-![Screenshot](week_most_sales.png)
-<img src="week_most_sale.png" width="600" height="300">
+<img src="week_most_sale.png" width="400" height="300">
 ---
 
 # Approach:
