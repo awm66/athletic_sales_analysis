@@ -36,6 +36,8 @@ No specific code was copied but the sources below were referenced for examples a
 
 # Sources:
 
+Difference(s) between merge() and concat() in pandas. (n.d.). Stack Overflow. Retrieved April 15, 2024, from https://stackoverflow.com/questions/38256104/differences-between-merge-and-concat-in-pandas
+
 Harrison, M. (2021). Effective Pandas: Patterns for Data Manipulation. Matt Harrison.
 
 Lutz, M. (2013). Learning python: Powerful object-oriented programming. " O'Reilly Media, Inc.".
